@@ -25,3 +25,7 @@ Css eksternal adalah css yang file nya terdapat sumber diluar html dengan melalu
 # 5. Menambahkan css slector
 ![gambar5](img/aa5.PNG)
 Css slector adalah css yang deklarasiannya dengan id dan class jika id dilambangkan dengan # Sedangkan class menggunakan .
+
+# 6. validasi dokumen css
+![gambar6](img/aa6.PNG)
+saya sudah memvalidasi file css dan tidak terjadi kesalahan
